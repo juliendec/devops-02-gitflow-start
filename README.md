@@ -1,8 +1,8 @@
-# Devops-01-git-ex-start
+# Devops-02-gitflow-start
 
 ## Description
 
-Placeholder project using material ui as styling library.
+Node JS API
 
 ### Prerequisites
 
